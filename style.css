@@ -6,3 +6,11 @@ body{
 h1, h2{
     text-align: center;
 }
+
+.cont{
+    text-align: center;
+}
+
+div > img{
+    width: 50%;
+}
